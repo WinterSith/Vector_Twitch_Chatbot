@@ -11,4 +11,6 @@ Make Vector respond to Twitch chat commands
       
 The Twitch chatbot app came directly from the Twitch dev web site.  It is all their code except for the part where I call the Vector pyhton code.
 
+All I modified in the proof.py file is what vector says.  Here is a link to the License for the Vector code: https://www.apache.org/licenses/LICENSE-2.0
+
 I developed this on a linux machine.  The call to the Vector program may need updated if done on a Windows machine
